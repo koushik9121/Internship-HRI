@@ -19,4 +19,4 @@ Testing- AR, MH,DR,NR,CR
 Folder Structure:
 Training-ER, NR
 Testing-ER,NR
-![Uploading image.png…]()
+Note: For training use the folder structure that has been mentioned and make necessary  path changes. The training part of the code saves the model and then the test code uses the saved model please make the path changes accordingly
