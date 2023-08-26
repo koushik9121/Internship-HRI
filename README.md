@@ -5,11 +5,13 @@ The source consists of a total of 5 files.
 -	Testset_binaryclassifier.py
 -	Testset_multiclassifier.py
 -	Test_singleimage_multiclassifier.py
-Output files: Log files are also made to keep track of the results and for images which are used in training.
+
+  
+Output files: Log files are also made to keep track of the results and for images that are used in training.
 - binary_output_logs.txt: This log file has the output of binary classifier training
-- output_logs.txt: This log filer has the output of multi classifier training
-- binary_training_images_filenames.txt: This has the list of images which are used for binary classifier training
-- training_images_filenames.txt: This has the list of images which are used for multi classifier training.
+- output_logs.txt: This log filer has the output of multi-classifier training
+- binary_training_images_filenames.txt: This has the list of images that are used for binary classifier training
+- training_images_filenames.txt: This has the list of images that are used for multi-classifier training.
 I have also uploaded the images used for training and testing.
 -Multi classifier:  
 Folder Structure:
