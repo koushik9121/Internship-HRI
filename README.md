@@ -19,6 +19,6 @@ Training-eyetype-AR, MH,DR,NR,CR
 Testing- AR, MH,DR,NR,CR
 -Binary classifier:  
 Folder Structure:
-Training-ER, NR
+Training-eyetype-ER, NR
 Testing-ER,NR
 Note: For training use the folder structure that has been mentioned and make necessary  path changes. The training part of the code saves the model and then the test code uses the saved model please make the path changes accordingly
